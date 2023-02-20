@@ -1,16 +1,22 @@
 
 /* Your CSS Code here. */
 .container{
+	padding:30px;
 	background-color:white;
 	display:flex;
-	flex-direction:row;
-	flex-wrap:wrap;
-	justify-content: space-between;
-	align-items: center;	
-	
+	justify-content:space-between;
 }
 .item{
 	background-color:green;
-
+	padding:30px;
+	margin:2px;
 	
 }
+/*
+.item1{
+	background-color:red;
+}
+.item1{
+	background-color:blue;
+}
+*/
