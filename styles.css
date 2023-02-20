@@ -5,15 +5,12 @@
 	display:flex;
 	flex-direction:row;
 	flex-wrap:wrap;
-	 justify-content: space-between;
-	align-items: center;
-	
-	
-	
+	justify-content: space-between;
+	align-items: center;	
 	
 }
 .item{
 	background-color:green;
-	margin:2px
+
 	
 }
