@@ -1,9 +1,11 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	padding:30px;
 	background-color:white;
 	display:flex;
+	flex-direction: row;
+	flex-wrap:wrap;
 	justify-content:space-between;
 }
 .item{
