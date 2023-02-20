@@ -4,28 +4,25 @@
 	display: flex;
 	flex-direction:row;
 	flex-wrap:wrap;
-	width:500;
-	height:auto;
-	border: 2px solid black;
 	justify-content: space-between;
 }
-.holder > .item1{
+ .item1{
 	background-color:red;
-	padding:20px;
+	padding:40px;
 	order:1;
 	
 	
 }
-.holder >.item2{
+.item2{
 	background-color:blue;
-	padding:20px;
+	padding:40px;
 	order:2;
 	
 	
 }
-.holder >.item3{
+.item3{
 	background-color:green;
-	padding:20px;
+	padding:40px;
 	
 	
 }
