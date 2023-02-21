@@ -5,6 +5,9 @@
 	flex-direction:row;
 	flex-wrap:wrap;
 	justify-content: space-between;
+	border: 2px solid black;
+	width:500px;
+	height:auto;
 }
  .holder >.box1{
 	background-color:red;
@@ -21,10 +24,8 @@
 	
 }
 .holder > .box3{
-	background-color:green;
+	background-color: green;
 	padding:40px;
-	
-	
 }
 /*
 .item1{
