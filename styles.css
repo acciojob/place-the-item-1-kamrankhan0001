@@ -1,15 +1,17 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:flex;
-	flex-direction:row;
+	
+	display: flex;
+	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-between;
 	border: 2px solid black;
 	width:500px;
 	height:auto;
 }
- .holder > .box1{
+ 
+.holder > .box1{
 	background-color:red;
 	padding:40px;
 	order:1;
