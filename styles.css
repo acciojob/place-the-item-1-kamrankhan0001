@@ -6,9 +6,8 @@
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	border: 2px solid black;
 	width:500px;
-	height:auto;
+	height:100px;
 }
  
 .holder > .box1{
